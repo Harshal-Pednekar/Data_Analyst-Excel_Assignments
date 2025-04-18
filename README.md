@@ -1,2 +1,2 @@
-# Data_Analyst-Assignments
+# Data_Analyst-Excel_Assignments
 Data Analyst Assignmnets
